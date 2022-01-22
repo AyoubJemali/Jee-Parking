@@ -14,10 +14,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Imane
- */
+
 public class SectionService implements IDao<Section> {
 
     @Override

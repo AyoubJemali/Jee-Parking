@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import service.PlaceService;
 
-/**
- *
- * @author Imane
- */
 @WebServlet(urlPatterns = {"/PlaceController"})
 public class PlaceController extends HttpServlet {
 
